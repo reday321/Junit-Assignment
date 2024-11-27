@@ -37,4 +37,4 @@ This Java-based script automates the guest registration form on the WP Everest d
 ## Note:
 Make sure WebDriver matches your browser version and adjust file paths accordingly.
 
-## [[HTML Report]](https://drive.google.com/file/d/1UEL0MUma1shtgpP7XRY5_uZC6fkPvHtW/view?usp=drive_link)
+## [HTML Report](https://drive.google.com/file/d/1ZWwcal8Jc11iIQS06Eekp7OL2FqnN8Si/view?usp=sharing)
